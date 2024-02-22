@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(200, 65%, 35%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #000000;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: hsl(200, 89%, 7%);
+    color: hsl(230, 12%, 80%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: hsl(300, 35%, 66%);
+}
+
+em {
+    color: hsl(200, 95%, 7%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(176, 95%, 16%);
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
